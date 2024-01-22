@@ -48,7 +48,7 @@ const blog = (
                 <img src='https://raw.githubusercontent.com/scottorly/uLlama/main/1024.jpg' />
             </figure>
             <p>
-                <span className='newthought'>uLlama, pronounced "Nano Llama", </span>
+                <span className='newthought'>uLlama, pronounced "Micro Llama", </span>
                 is your own personal, private, and secure state-of-the-art on-device AI assistant.
             </p>
         </section>
