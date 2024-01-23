@@ -48,8 +48,16 @@ const blog = (
                 <img src='https://raw.githubusercontent.com/scottorly/uLlama/main/1024.jpg' />
             </figure>
             <p>
-                <span className='newthought'>uLlama, pronounced "Micro Llama", </span>
+                <span className='newthought'>
+                    <Link href='https://apps.apple.com/us/developer/scott-orlyck/id1082162815'>uLlama</Link>, pronounced "Micro Llama", 
+                </span><br/>
                 is your own personal, private, and secure state-of-the-art on-device AI assistant.
+            </p>
+        </section>
+        <section>
+            <h2>SUPPORT</h2>
+            <p>
+                Contact us at 'uLlama.app@gmail.com'
             </p>
         </section>
         <section>
