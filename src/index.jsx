@@ -38,8 +38,8 @@ const blog = (
     <article>
         <section>
             <p>
-                <h1 className={styles.title}>uLlama</h1>
-                <Link href='https://apps.apple.com/us/developer/scott-orlyck/id1082162815'>App Store</Link> 
+                <h1 className={styles.title}>MICRO LLAMA</h1>
+                <Link href='https://apps.apple.com/us/app/micro-llama/id6468129438'>App Store</Link> 
             </p>        
         </section>
 
@@ -49,7 +49,7 @@ const blog = (
             </figure>
             <p>
                 <span className='newthought'>
-                    <Link href='https://apps.apple.com/us/developer/scott-orlyck/id1082162815'>uLlama</Link>, pronounced "Micro Llama", 
+                    <Link href='https://apps.apple.com/us/app/micro-llama/id6468129438'>MICRO LLAMA</Link> 
                 </span><br/>
                 is your own personal, private, and secure state-of-the-art on-device AI assistant.
             </p>
